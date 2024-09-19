@@ -3,6 +3,8 @@ deChess - decentralized chess
 Study Purpose - Inspired from my projects
 
 
+MAKING CHANGES>>>>
+
 
 # Getting Started with Create React App
 
